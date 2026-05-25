@@ -1,4 +1,3 @@
-````markdown
 # Homework 2 - Inference Optimization
 
 Projekt jest kontynuacją pierwszego zadania z przedmiotu **Narzędzia Uczenia Maszynowego / MLOps**.
@@ -267,5 +266,4 @@ Najważniejsza obserwacja dotyczy pruningu:
 
 W tym eksperymencie najlepszy kompromis uzyskano dla structured pruning, ponieważ zmniejszył liczbę parametrów, poprawił F1 score i lekko skrócił czas inferencji.
 
-```
 ```

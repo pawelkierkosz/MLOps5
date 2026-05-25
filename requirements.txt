@@ -1,0 +1,11 @@
+torch
+lightning
+torchmetrics
+scikit-learn
+numpy
+pandas
+matplotlib
+mlflow
+optuna
+python-dotenv
+tabulate
